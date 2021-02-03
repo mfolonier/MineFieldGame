@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\MineField game\bin\Debug\MineField game.exe.config
+C:\Users\user\source\repos\MineField game\bin\Debug\MineField game.exe
+C:\Users\user\source\repos\MineField game\bin\Debug\MineField game.pdb
+C:\Users\user\source\repos\MineField game\obj\Debug\MineField game.csprojAssemblyReference.cache
+C:\Users\user\source\repos\MineField game\obj\Debug\MineField game.exe
+C:\Users\user\source\repos\MineField game\obj\Debug\MineField game.pdb

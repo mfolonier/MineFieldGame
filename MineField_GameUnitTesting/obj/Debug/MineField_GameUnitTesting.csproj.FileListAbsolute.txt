@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\MineField game\MineField_GameUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\user\source\repos\MineField game\MineField_GameUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\user\source\repos\MineField game\MineField_GameUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\user\source\repos\MineField game\MineField_GameUnitTesting\bin\Debug\MineField_GameUnitTesting.dll
+C:\Users\user\source\repos\MineField game\MineField_GameUnitTesting\bin\Debug\MineField_GameUnitTesting.pdb
+C:\Users\user\source\repos\MineField game\MineField_GameUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\user\source\repos\MineField game\MineField_GameUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\user\source\repos\MineField game\MineField_GameUnitTesting\bin\Debug\MineField game.exe
+C:\Users\user\source\repos\MineField game\MineField_GameUnitTesting\bin\Debug\MineField game.pdb
+C:\Users\user\source\repos\MineField game\MineField_GameUnitTesting\bin\Debug\MineField game.exe.config
+C:\Users\user\source\repos\MineField game\MineField_GameUnitTesting\obj\Debug\MineField_GameUnitTesting.csprojAssemblyReference.cache
+C:\Users\user\source\repos\MineField game\MineField_GameUnitTesting\obj\Debug\MineField_GameUnitTesting.csproj.CopyComplete
+C:\Users\user\source\repos\MineField game\MineField_GameUnitTesting\obj\Debug\MineField_GameUnitTesting.dll
+C:\Users\user\source\repos\MineField game\MineField_GameUnitTesting\obj\Debug\MineField_GameUnitTesting.pdb

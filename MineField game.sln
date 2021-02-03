@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MineField game", "MineField game.csproj", "{87221B91-7D7C-4534-9F20-0BECCBF1B63E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MineField_GameUnitTesting", "MineField_GameUnitTesting\MineField_GameUnitTesting.csproj", "{4FD51CEF-B7B4-42F3-8C5B-C2E996A3BA2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87221B91-7D7C-4534-9F20-0BECCBF1B63E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87221B91-7D7C-4534-9F20-0BECCBF1B63E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87221B91-7D7C-4534-9F20-0BECCBF1B63E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87221B91-7D7C-4534-9F20-0BECCBF1B63E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FD51CEF-B7B4-42F3-8C5B-C2E996A3BA2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FD51CEF-B7B4-42F3-8C5B-C2E996A3BA2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FD51CEF-B7B4-42F3-8C5B-C2E996A3BA2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FD51CEF-B7B4-42F3-8C5B-C2E996A3BA2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73EFF25D-A303-40B1-B60A-31F19F99EAAB}
+	EndGlobalSection
+EndGlobal
