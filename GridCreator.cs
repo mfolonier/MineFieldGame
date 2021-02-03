@@ -32,7 +32,7 @@ namespace MineField_game
 			{
 				for (var y = 0; y < CONSTANTS.rows; y++)
 				{
-					//Allocate mines randomly
+					//Probability of a mine is (1/CONSTANTS.level)%. 
 					var insertMine = RandomNumber(1, CONSTANTS.level + 1) == CONSTANTS.level ? true : false;
 
 					if (x == startPosX & y == CONSTANTS.startPosY || !insertMine)
