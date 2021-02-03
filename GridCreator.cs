@@ -25,12 +25,12 @@ namespace MineField_game
 
 		public ISquare[,] CreateGrid( int startPosX = 0)
 		{
-			var squares = new ISquare[CONSTANTS.rows, CONSTANTS.columns];
+			var squares = new ISquare[CONSTANTS.columns, CONSTANTS.rows];
 
 			
-			for (var x = 0; x < CONSTANTS.rows; x++)
+			for (var x = 0; x < CONSTANTS.columns; x++)
 			{
-				for (var y = 0; y < CONSTANTS.columns; y++)
+				for (var y = 0; y < CONSTANTS.rows; y++)
 				{
 					//Allocate mines randomly
 					var insertMine = RandomNumber(1, CONSTANTS.level + 1) == CONSTANTS.level ? true : false;

@@ -9,20 +9,18 @@ namespace MineField_game
            
         public void DrawGrid(ISquare[,] squares, ISquare currentSquare, ISquare finalSquare)
         {
-          
-            var width = CONSTANTS.columns;
-            var height = CONSTANTS.rows - 1;
+           
 
             Console.CursorVisible = false;
 
             Console.WriteLine();
 
-            for (var y = height; y >= 0; y--)
+            for (var y = CONSTANTS.rows - 1; y >= 0; y--)
             {
                 Console.Write(" ");
                 Console.Write(squares[0, y].Ylabel());
                 Console.Write(" ");
-                for (var x = 0; x < width; x++)
+                for (var x = 0; x < CONSTANTS.columns; x++)
                 {
                     if (squares[x, y] == currentSquare && !squares[x,y].Mine())
                         Console.Write(CONSTANTS.currentPosition);
@@ -38,7 +36,7 @@ namespace MineField_game
 
             Console.Write("    ");
 
-            for (var x = 0; x < width; x++)
+            for (var x = 0; x < CONSTANTS.columns; x++)
             {
                 Console.Write(squares[x, 0].Xlabel());
                 Console.Write("  ");
